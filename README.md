@@ -18,6 +18,7 @@ A: No, it is not a scam. After discussing the project and agreeing on the terms 
 
 ### Q: How do you handle confidentiality and security?
 A: Every single interaction we make, is strictly confidential between both parties. For a major safety measure on the customer side, the project will come with a HASH.txt file containing the whole project's hash, present both in the showcasing video and in the final product.
+
 ## Contacts
-Discord: `kai5041._`
+Discord: `kai5041._`  
 Discord server: [Link](https://discord.com/invite/9v4fMVAdmh)
