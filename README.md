@@ -2,7 +2,7 @@
 I'm Kai, just a self taught developer striving for more, with a strong passion for problem solving. I have 6 years of self taught programming knowledge, *eternally* craving for more. Currently I am looking for freelancing jobs at fair prices, feel free to contact me [here](#Contacts).
 
 ## Projects
-[PRM - A project generator and runner](https://github.com/kai5041/prm)
+[PRM - A project manager](https://github.com/kai5041/prm)
 
 ## Q&A
 ### Q: What services do you offer?
