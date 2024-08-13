@@ -6,7 +6,7 @@ I'm Kai, just a self taught developer striving for more, with a strong passion f
 
 ## Q&A
 ### Q: What services do you offer?
-A: I can offer a wide range of programming services, excluding web development. Data analysis, automation, tooling and more are included in my skills. Need something to get done through code? Contact me!
+A: I can offer a wide range of programming services, excluding web and mobile app development. Data analysis, automation, tooling and more are included in my skills. Need something to get done through code? Contact me!
 
 ### Q: What are your rates?
 A: My rates depend on the nature and complexity of the project. The rate can be paid per hour or actively. The prices are negotiable.
