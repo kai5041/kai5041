@@ -10,7 +10,7 @@ def compare_hash(hash1, hash2):
 
 if __name__ == "__main__":
     if len(argv) == 1:
-        print("Usage:\n  hck.py hash <archive>\nor\n  hck.py compare <hash> <archive>")
+        print("Usage:\n  check.py hash <archive>\nor\n  check.py compare <hash> <archive>")
         exit(1)
 
     cmd = argv[1]
