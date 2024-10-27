@@ -1,4 +1,4 @@
-# 👨‍💻 Freelance Programmer | Open for Projects
+# Freelance Programmer | Open for Projects
 
 I am a **6-year self-taught developer** covering a wide range of skills, from web development and backend systems to automation and data analysis. I'm here to help with your programming needs - **except** for Android app development.
 
