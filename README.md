@@ -9,7 +9,7 @@ I tried to mimick small CPUs to a logical level using VHDL, and actually run a s
 
 
 ## Projects
-- [**tusgou/都合**](https://github.com/kai5041/tusgou): A simplified version control system, with digital signatures support.
+- [**tusgou/都合**](https://github.com/kai5041/tsugou): A simplified version control system, with digital signatures support.
 
 ## Contact
 - [**kai5041contact@gmail.com**](mailto:kai5041contact@gmail.com)
