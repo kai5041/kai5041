@@ -23,7 +23,7 @@ I'm open for discussions, collaborations and shared interests.
 Reach out via the following platforms:
 - **Discord username:** `kai5041._`
 - [**Discord server**](https://discord.gg/qFnH5Gqrvb)
-- **Email:** `kai5041contact@gmail.com`
+- **Email:** <a href="" onclick="event.preventDefault(); navigator.clipboard.writeText('kai5041contact@gmail.com');">kai5041contact@gmail.com (click me to copy)</a>
 
 ## Support my work
 If you appreciate and want to support my works,
