@@ -1,34 +1,33 @@
-# Kai's profile | 解のプロフィール
+# Kai's profile 
+> ~~**❌ COMMISSIONS CLOSED**~~
 
 ## About me
-I'm someone who builds, diving into multiple fields from programming languages to electronics,
-from cryptography to post quantum cryptography.  
+I'm a creator of projects focused on future-proofing and user-centered design, emphasizing security, autonomy, and longevity.
 
-Why those fields?  
-They're not the solution to everything, 
-but **tools** that will help us **shape** the future.  
-**未来の為に。**
+## Skills
 
-I speak English, unnatural Japanese and slowly learning Mandarin.
+- **Programming languages**: C++, C, Python 3, Node.js, TypeScript
+- **Web development**: HTML, CSS, JavaScript
+- **Bot development**: Discord and Telegram (C++)
+- **Scripting**: Bash
+- **Version control**: Git, tsugou (upcoming)
+- **Operating systems**: Linux
+- **Build systems**: Make, CMake
+- **Containerization**: Docker
+- **Cryptography**: OpenSSL
+- **Databases**: MariaDB, PostgreSQL
+- **APIs**: REST, WebSocket
+- **Cloud platforms**: AWS
 
-## Ongoing projects
-- [**tsugou**](https://github.com/kai5041/tsugou): A permissioned version control system and builder with Post Quantum Cryptography integration.
-- [**xarch**](https://github.com/kai5041/xarch-project): An experimental computer architecture done from scratch.
-- [**xuci**](): *Upcoming*
+## Projects
+
+- [**tsugou**](https://github.com/kai5041/tsugou): A quantum-resistant, permissioned version control system
+- [**所Chat**](): A quantum-resistant chatting platform featuring direct, social, and server modes
 
 
-## Get in touch
-I'm open for discussions, collaborations and shared interests.
+## About HARMONY連
+HARMONY連 is an informal multi-department working group organized into specialized departments such as Game Development and Research & Development. We invite individuals seeking collaborative experience to join and contribute in our group.
 
-Reach out via the following platforms:
-- **Discord username:** `kai5041._`
-- [**Discord server**](https://discord.gg/qFnH5Gqrvb)
-- **Email:** `kai5041contact@gmail.com`
-
-## Support my work
-If you appreciate and want to support my works,
-you can send donations to the following monero (XMR) address:  
-`89H97xjdzWwi8vmZzPB3yGWofHHHzXQnK97GhebLLY6gPpgYrUoVUhGAPFKu5u1YutaLL4EcYicRfKMhURuLZhg1LSyy7xn`
-
-Your support keeps the development and
-motivation going, thank you!
+## Contact
+- **HARMONY連's Discord server**: [link](https://discord.gg/qFnH5Gqrvb)
+- **Instagram**: [link](https://instagram.com/kai5041._)
