@@ -1,5 +1,6 @@
 # Kai's profile 
-> ~~**❌ COMMISSIONS CLOSED**~~
+> ~~**❌ COMMISSIONS CLOSED**~~  
+> For commission inquiries, please visit [**HARMONY連's Discord server**](https://discord.gg/qFnH5Gqrvb) or contact me on [**instagram**](https://instagram.com/kai5041._)
 
 ## About me
 I'm a creator of projects focused on future-proofing and user-centered design, emphasizing security, autonomy, and longevity.
@@ -30,4 +31,6 @@ HARMONY連 is an informal multi-department working group organized into speciali
 
 ## Contact
 - **HARMONY連's Discord server**: [link](https://discord.gg/qFnH5Gqrvb)
-- **Instagram**: [link](https://instagram.com/kai5041._)
+- **Twitch**: [kai5041](https://www.twitch.tv/kai5041)
+- **Youtube**: [kai_5041](https://youtube.com/@kai_5041)
+- **Instagram**: [kai5041._](https://instagram.com/kai5041._)
